@@ -7,13 +7,13 @@ namespace MyDifferentFunctionalAreas.Areas.Billing
 {
     public class FileR
     {
-        
+        const string A = "A";
+        const string B = "B";
+        const string C = "C";
     }
 
     public class FileRR : FileR
     {
-        private int Number1;
-        private int Number2;
-        private int Number3;
+      
     }
 }
